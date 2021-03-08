@@ -12,3 +12,5 @@ create new branch, was named "feature"
 second commit in branch "feature"
 
 conflict solving feature
+
+add new row feature
